@@ -129,7 +129,7 @@ If your TA is unwell, they will not come to class. Your TA will make every reaso
 Tutorials begin in Week 2 of the semester.
 
 ### C. Homework Assignments (3 x 8.33% = 25%)
-There will be 4 Homework assignments. All Homework assignments are due Monday at
+There will be 3 Homework assignments. All Homework assignments are due Monday at
 9am, the week after they are distributed. They must be submitted electronically
 to both turnitin.com and Canvas.
 
@@ -164,8 +164,8 @@ submit homework to turnitin.*
 | Assessed Course Components                   | Date/Due Date                                         | Percentage of Overall Grade |
 |----------------------------------------------|-------------------------------------------------------|-----------------------------|
 | Weekly Tutorial Attendance and Participation | Monday, 9am, the week after assignment is distributed | 15%                         |
-| Homework (3 assignments)                     | Weeks 2-6                                             | 25% (8.33% each)             |
-| Midterm Exam                                 | Oct. 21, during class time                            | 30%                         |
+| Homework (3 assignments)                     | Weeks 2-6                                             | 25% (8.33% each)            |
+| Midterm Exam                                 | June 6, during class time                             | 30%                         |
 | Final Examination                            | Exam Period: Date and Time to be Set by Registrar     | 30%                         |
 
 
@@ -308,6 +308,26 @@ examples of what constitutes academic misconduct and the extent of disciplinary
 action that could be taken.
 http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,959
 
+### ChatGPT Policy
+ChatGPT is a powerful tool, but it is not a substitute for your own work. You
+are welcome to use ChatGPT to help you with your assignments, but you may not
+simply copy the output of ChatGPT and submit it as your own work. If you do so,
+you will be subject to the same penalties as if you had plagiarized from another
+student or from a published source. If you use ChatGPT to help you with your
+assignments, you must cite ChatGPT as a source. You must also include a
+statement in your assignment that indicates what parts of the assignment were
+written by you and what parts were written by ChatGPT. For example, you might
+write something like this:
+
+> I used ChatGPT to help me write this assignment. The following parts of this
+> assignment were written by ChatGPT: [insert text here]. The following parts
+> were written by me: [insert text here].
+
+However, if you rely on ChatGPT's answer, and that answer is wrong,  you will be
+held responsible for the error. Thus, you should always check the output of
+ChatGPT to make sure that it is correct before submitting it as part of your
+assignment.
+
 ### Turnitin.com
 It is the official policy of the Department of Political Science that all
 written course work be submitted to turnitin.com to check for possible signs of
@@ -352,8 +372,8 @@ etc.) throughout the term.
 
 ### Week 1: Introduction to Social Science
 
-- Topic 1: Course Structure, Requirements, Objectives and Introduction
-- Topic 2: What is Social Science?
+- Class 1: Course Structure, Requirements, Objectives and Introduction
+- Class 2: What is Social Science?
 
 #### Reading:
 
@@ -361,8 +381,9 @@ etc.) throughout the term.
 
 ### Week 2: Causality in the Social Sciences
 
-- Topic 3: Types of Questions and Claims (Prescriptive/Descriptive/Causal)
-- Topic 4: Causal Claims: What is Causality?
+- Class 3: Types of Questions and Claims (Prescriptive/Descriptive/Causal)
+- Class 4: Causal Claims: What is Causality?
+   - *HOMEWORK 1 ASSIGNED*
 
 #### Reading:
 
@@ -371,19 +392,22 @@ etc.) throughout the term.
 
 ### Week 3: Types of Causal Claims and Causal Logics
 
-- Topic 5: Types of Causal Claims
-- Topic 6: Causal Logics
+- Class 5: Types of Causal Claims
+- Class 6: Causal Logics
+   - *HOMEWORK 1 DUE*
 
 #### Reading:
 
 - "General and Specific Knowledge in the Social Sciences": on Canvas (under Modules)
-- For Next Week's Tutorial - Wikipedia entry: Causes of the French Revolution
-- For Next Week's Tutorial - Wikipedia entry: Russian Revolution: ONLY the section on "Background," including its 3 subsections
+- Wikipedia entry: Causes of the French Revolution
+- Wikipedia entry: Russian Revolution: ONLY the section on "Background," including its 3 subsections
 
 ### Week 4: Studying Causality Empirically: Concepts, Variables, and Measures
 
-- Topic 7: From Concepts to Variables
-- Topic 8: From Variables to Measures
+- Class 7: From Concepts to Variables
+   - *MIDTERM EXAM IN FIRST HOUR OF CLASS*
+- Class 8: From Variables to Measures
+   - *HOMEWORK 2 ASSIGNED*
 
 #### Reading:
 
@@ -393,8 +417,9 @@ etc.) throughout the term.
 
 ### Week 5: Challenges of Measurement, Sampling, and Covariation
 
-- Topic 9: Challenges of Measurement and Sampling
-- Topic 10: Covariation as a Means of Assessing Causation
+- Class 9: Challenges of Measurement and Sampling
+- Class 10: Covariation as a Means of Assessing Causation
+   - *HOMEWORK 2 DUE*
 
 #### Reading:
 
@@ -404,12 +429,12 @@ etc.) throughout the term.
 
 ### Week 6: Limitations of Covariation and Qualitative Study of Causation
 
-- Topic 11: Why Covariation Doesn’t Always Mean Causation: Spuriousness, Reverse Causation, and Randomness
-- Topic 12: Qualitative Study of Causation: Process Tracing and Reasoning with Evidence
+- Class 11: Why Covariation Doesn’t Always Mean Causation: Spuriousness, Reverse Causation, and Randomness
+- Class 12: Qualitative Study of Causation: Process Tracing and Reasoning with Evidence
+   - *HOMEWORK 3 ASSIGNED; DUE ONE WEEK LATER*
 
 #### Reading:
 
 - Neuman, pp. 98-99 (Custom Course Pack/Library Online Course Reserves)
-- For Next Week’s Tutorial: Levitt and Dubner (Freakonomics), pp. 161-176 (Custom Course Pack/Library Online Course Reserves)
 - Arthur Conan Doyle’s “Silver Blaze” (online at this link)
 - Neuman, pp. 68-74; 78-82 (Custom Course Pack/Library Online Course Reserves)
