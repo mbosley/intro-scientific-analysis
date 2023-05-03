@@ -1,6 +1,5 @@
 # Introduction to Scientific Analysis
 
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
 - [Introduction to Scientific Analysis](#introduction-to-scientific-analysis)
@@ -10,39 +9,37 @@
 - [University Values and Priorities](#university-values-and-priorities)
 - [Required Readings](#required-readings)
 - [Grading and Assessed Course Work](#grading-and-assessed-course-work)
-- [A. Midterm (30%) and Final Examinations (30%)](#a-midterm-30-and-final-examinations-30)
-- [B. Weekly Tutorial Attendance and Participation, starting WEEK 2 (15%)](#b-weekly-tutorial-attendance-and-participation-starting-week-2-15)
-- [If your TA is feeling ill](#if-your-ta-is-feeling-ill)
-- [C. Homework Assignments (3 x 8.33% = 25%)](#c-homework-assignments-3-x-833--25)
+   - [A. Midterm (30%) and Final Examinations (30%)](#a-midterm-30-and-final-examinations-30)
+   - [B. Weekly Tutorial Attendance and Participation, starting WEEK 2 (15%)](#b-weekly-tutorial-attendance-and-participation-starting-week-2-15)
+      - [If your TA is feeling ill](#if-your-ta-is-feeling-ill)
+   - [C. Homework Assignments (3 x 8.33% = 25%)](#c-homework-assignments-3-x-833--25)
 - [Missed Class Sessions, Late Assignments, and Missed Examinations](#missed-class-sessions-late-assignments-and-missed-examinations)
-- [General policies on absence and late assignments](#general-policies-on-absence-and-late-assignments)
-- [Absence from Tutorial](#absence-from-tutorial)
-- [Late Homework Assignments](#late-homework-assignments)
-- [Missed examinations](#missed-examinations)
-- [Accommodation](#accommodation)
-- [Academic concessions](#academic-concessions)
-- [Meeting with me](#meeting-with-me)
-- [Important term dates](#important-term-dates)
+   - [General policies on absence and late assignments](#general-policies-on-absence-and-late-assignments)
+   - [Absence from Tutorial](#absence-from-tutorial)
+   - [Late Homework Assignments](#late-homework-assignments)
+   - [Missed examinations](#missed-examinations)
+   - [Accommodation](#accommodation)
+   - [Academic concessions](#academic-concessions)
+   - [Meeting with me](#meeting-with-me)
+   - [Important term dates](#important-term-dates)
 - [Cheating and Plagiarism](#cheating-and-plagiarism)
-- [ChatGPT Policy](#chatgpt-policy)
-- [Turnitin.com](#turnitincom)
-- [Communication with Teaching Staff](#communication-with-teaching-staff)
+   - [ChatGPT Policy](#chatgpt-policy)
+   - [Turnitin.com](#turnitincom)
+   - [Communication with Teaching Staff](#communication-with-teaching-staff)
 - [Course Webpage and Emails](#course-webpage-and-emails)
 - [Schedule](#schedule)
 - [Week 1: Introduction to Social Science](#week-1-introduction-to-social-science)
-- [Reading:](#reading)
+   - [Reading:](#reading)
 - [Week 2: Causality in the Social Sciences](#week-2-causality-in-the-social-sciences)
-- [Reading:](#reading-1)
+   - [Reading:](#reading-1)
 - [Week 3: Types of Causal Claims and Causal Logics](#week-3-types-of-causal-claims-and-causal-logics)
-- [Reading:](#reading-2)
+   - [Reading:](#reading-2)
 - [Week 4: Studying Causality Empirically: Concepts, Variables, and Measures](#week-4-studying-causality-empirically-concepts-variables-and-measures)
-- [Reading:](#reading-3)
+   - [Reading:](#reading-3)
 - [Week 5: Challenges of Measurement, Sampling, and Covariation](#week-5-challenges-of-measurement-sampling-and-covariation)
-- [Reading:](#reading-4)
+   - [Reading:](#reading-4)
 - [Week 6: Limitations of Covariation and Qualitative Study of Causation](#week-6-limitations-of-covariation-and-qualitative-study-of-causation)
-- [Reading:](#reading-5)
-
-<!-- markdown-toc end -->
+   - [Reading:](#reading-5)
  
 
 ## Course Description
@@ -328,7 +325,7 @@ may affect you:
 
 ### Important term dates
 http://www.calendar.ubc.ca/vancouver/
-
+   
 ## Cheating and Plagiarism
 Academic dishonesty in the form of cheating or plagiarism will not be tolerated.
 The University considers plagiarism to be the most serious academic offence that
@@ -410,7 +407,7 @@ There is a course webpage for POLI 110 on UBC’s Canvas System. You can log in 
 canvas.ubc.ca with your CWL username and password. I will use this page to post
 important course documents (readings, syllabus, assignments, lecture slides
 etc.) throughout the term.
-
+   
 ## Schedule
 
 ### Week 1: Introduction to Social Science
