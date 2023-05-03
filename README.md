@@ -1,8 +1,15 @@
-# Introduction to Scientific Analysis
+# POLI 110 - Introduction to Scientific Analysis - Summer 2023 Term 1
+
+*Instructor*: Mitchell Bosley
+- email: mcbosley@umich.edu
+- office hours: TBD
+
+*Teaching Assistant*: Cindy Robin
+- email: TODO: Cindy's ubc email
+- office hours: TBD
 
 **Table of Contents**
 
-- [Introduction to Scientific Analysis](#introduction-to-scientific-analysis)
 - [Course Description](#course-description)
 - [Land Acknowledgement](#land-acknowledgement)
 - [Class Meetings](#class-meetings)
@@ -41,6 +48,7 @@
 - [Week 6: Limitations of Covariation and Qualitative Study of Causation](#week-6-limitations-of-covariation-and-qualitative-study-of-causation)
    - [Reading:](#reading-5)
  
+
 
 ## Course Description
 
