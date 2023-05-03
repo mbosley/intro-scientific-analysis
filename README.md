@@ -28,7 +28,7 @@ attendance and participation is required. See the section below on “Grading an
 Assessed Coursework” for further details on the grading of tutorial attendance
 and participation.
 
-## University Values and Priorities:
+## University Values and Priorities
 UBC provides resources to support student learning and to maintain healthy
 lifestyles but recognizes that sometimes crises arise and so there are
 additional resources to access including those for survivors of sexual violence.
@@ -160,13 +160,12 @@ material at any of the following 5 links:
 THEY WILL NOT RECEIVE MARK. You will shortly receive information about how to
 submit homework to turnitin.*
 
-<!-- TODO: revise dates -->
-| Assessed Course Components                   | Date/Due Date                                         | Percentage of Overall Grade |
-|----------------------------------------------|-------------------------------------------------------|-----------------------------|
-| Weekly Tutorial Attendance and Participation | Monday, 9am, the week after assignment is distributed | 15%                         |
-| Homework (3 assignments)                     | Weeks 2-6                                             | 25% (8.33% each)            |
-| Midterm Exam                                 | June 6, during class time                             | 30%                         |
-| Final Examination                            | Exam Period: Date and Time to be Set by Registrar     | 30%                         |
+| Assessed Course Components                   | Date/Due Date                                            | Percentage of Overall Grade |
+|----------------------------------------------|----------------------------------------------------------|-----------------------------|
+| Weekly Tutorial Attendance and Participation | Weeks 2-6                                                | 15%                         |
+| Homework (3 assignments)                     | Due in tutorial the week after assignment is distributed | 25% (8.33% each)            |
+| Midterm Exam                                 | June 6, during class time                                | 30%                         |
+| Final Examination                            | Exam Period: Date and Time to be Set by Registrar        | 30%                         |
 
 
 ## Missed Class Sessions, Late Assignments, and Missed Examinations
@@ -285,8 +284,6 @@ may affect you:
 http://www.calendar.ubc.ca/vancouver/
 
 ## Cheating and Plagiarism
-TODO: Add ChatGPT policy
-
 Academic dishonesty in the form of cheating or plagiarism will not be tolerated.
 The University considers plagiarism to be the most serious academic offence that
 a student can commit. Plagiarism includes but is not limited to the presentation
