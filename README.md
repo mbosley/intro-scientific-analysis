@@ -1,4 +1,4 @@
-# POLI 110 - Introduction to Scientific Analysis - Summer 2023 Term 1
+# POLI 110 - Introduction to Scientific Analysis - Summer 2023
 
 *Instructor*: Mitchell Bosley
 - email: mcbosley@umich.edu
@@ -35,18 +35,12 @@
    - [Communication with Teaching Staff](#communication-with-teaching-staff)
 - [Course Webpage and Emails](#course-webpage-and-emails)
 - [Schedule](#schedule)
-- [Week 1: Introduction to Social Science](#week-1-introduction-to-social-science)
-   - [Reading:](#reading)
-- [Week 2: Causality in the Social Sciences](#week-2-causality-in-the-social-sciences)
-   - [Reading:](#reading-1)
-- [Week 3: Types of Causal Claims and Causal Logics](#week-3-types-of-causal-claims-and-causal-logics)
-   - [Reading:](#reading-2)
-- [Week 4: Studying Causality Empirically: Concepts, Variables, and Measures](#week-4-studying-causality-empirically-concepts-variables-and-measures)
-   - [Reading:](#reading-3)
-- [Week 5: Challenges of Measurement, Sampling, and Covariation](#week-5-challenges-of-measurement-sampling-and-covariation)
-   - [Reading:](#reading-4)
-- [Week 6: Limitations of Covariation and Qualitative Study of Causation](#week-6-limitations-of-covariation-and-qualitative-study-of-causation)
-   - [Reading:](#reading-5)
+   - [Week 1: Introduction to Social Science](#week-1-introduction-to-social-science)
+   - [Week 2: Causality in the Social Sciences](#week-2-causality-in-the-social-sciences)
+   - [Week 3: Types of Causal Claims and Causal Logics](#week-3-types-of-causal-claims-and-causal-logics)
+   - [Week 4: Studying Causality Empirically: Concepts, Variables, and Measures](#week-4-studying-causality-empirically-concepts-variables-and-measures)
+   - [Week 5: Challenges of Measurement, Sampling, and Covariation](#week-5-challenges-of-measurement-sampling-and-covariation)
+   - [Week 6: Limitations of Covariation and Qualitative Study of Causation](#week-6-limitations-of-covariation-and-qualitative-study-of-causation)
  
 
 
