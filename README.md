@@ -317,10 +317,10 @@ written by you and what parts were written by ChatGPT. For example, you might
 write something like this:
 
 > I used ChatGPT to help me write this assignment. The following parts of this
-> assignment were written by ChatGPT: [insert text here]. The following parts
-> were written by me: [insert text here].
+> assignment were written by ChatGPT: [describe parts here]. The following parts
+> were written by me: [describe parts here].
 
-However, if you rely on ChatGPT's answer, and that answer is wrong,  you will be
+Note that if you rely on ChatGPT's answer, and that answer is wrong, you will be
 held responsible for the error. Thus, you should always check the output of
 ChatGPT to make sure that it is correct before submitting it as part of your
 assignment.
